@@ -104,6 +104,8 @@
   "bbs.config.model_blocks.tooltip": "Opciones relacionadas con los bloques de modelos",
     "bbs.config.model_blocks.gizmos_enabled": "Gizmos",
     "bbs.config.model_blocks.gizmos_enabled-comment": "Activa gizmos 3D (mover/rotar/escalar) en el editor de bloques de modelo",
+    "bbs.config.model_blocks.gizmo_scale": "Tamaño del gizmo",
+    "bbs.config.model_blocks.gizmo_scale-comment": "Ajusta el tamaño general del gizmo dentro del editor de bloques de modelo",
     "bbs.config.model_blocks.categories_panel_enabled": "Panel de categorías de huesos",
     "bbs.config.model_blocks.categories_panel_enabled-comment": "Mostrar el panel de categorías de huesos en editores de pose (editor y timeline)",
   "bbs.config.structures.title": "Estructuras",
